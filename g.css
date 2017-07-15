@@ -1,0 +1,49 @@
+body{
+    background-image: url("c.jpg");
+    background-size: cover;
+}
+
+p{
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: silver;
+    font-size: 48px;
+    
+}
+
+#score{
+    text-align: center;
+}
+
+.clear{
+    clear: both;
+}
+#size-bloc{
+    margin-left: -50px;
+    padding-left: 50%;
+}
+
+#size-title{
+    float: left;
+    margin-top: 0px;
+}
+
+#size{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+#canvas{
+    background-color: #B9B5A7;
+}
+
+#canvas-block{
+    margin-left: -250px;
+    padding-left: 50%;
+    border-radius:
+}
